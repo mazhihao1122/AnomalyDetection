@@ -1,5 +1,7 @@
 # AnomalyDetection
+
 异常检测 Isolation Forest的java版实现
+
 This Project aim of implements most of Anomaly Detection Algorithms in Java.
 If you want to contribute source code, please write Email to jeemy145@outlook.com, or you can add my WeChat Number: **JeemyJohn**
 
